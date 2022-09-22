@@ -6,11 +6,17 @@ model a house in 3D with only a home address.
 Requirements:
 
 Python
+
 requests
+
 json
+
 os
+
 rasterio
+
 plotly
+
 pandas
 
 Steps:
