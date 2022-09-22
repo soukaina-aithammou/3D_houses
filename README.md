@@ -14,7 +14,9 @@ pandas
 Steps:
 Collecting Data:
 -DTM files for Flanders: http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m
+
 -DSM files for Flanders: https://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m
+
 -Data of each address in Flanders: https://api.basisregisters.vlaanderen.be
 
 -Providing the address
