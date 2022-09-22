@@ -20,11 +20,18 @@ Collecting Data:
 -Data of each address in Flanders: https://api.basisregisters.vlaanderen.be
 
 -Providing the address
+
 -Match the address with the correct API.
+
 -Get the coordinates.
+
 -Check this coordinates in which file DSM and DTM.
+
 -Clip the target zone from the DSM.tif.
+
 -Clip the target zone from the DTM.tif.
+
 -Subtract the Clipped DTM from the Clipped DSM to compute The Canopy Height Model CHM.
+
 -Plot the CHM.
 
